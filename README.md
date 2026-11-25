@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Работа приложения 
+https://github.com/Bukhanka453/notes1/issues/1
+перейдите по ссылке, в реадми у меня не получилось закинуть гифку
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
